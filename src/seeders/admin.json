@@ -1,0 +1,18 @@
+[
+    {
+        "email": "deeprabadiya@yopmail.com",
+        "password": "deep@123",
+        "firstName": "Deep",
+        "lastName": "rabadiya",
+        "role": "ADMIN",
+        "canDel": false
+    },
+    {
+        "email": "tretanzinfotech@yopmail.com",
+        "password": "tretanz@123",
+        "firstName": "Tretanz",
+        "lastName": "infotech",
+        "role": "ADMIN",
+        "canDel": false
+    }
+]

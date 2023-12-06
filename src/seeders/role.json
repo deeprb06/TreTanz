@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Admin",
+        "code": "ADMIN",
+        "weight": 1,
+        "canDel": false
+    },
+    {
+        "name": "Candidate",
+        "code": "CANDIDATE",
+        "weight": 2,
+        "canDel": false
+    }
+]

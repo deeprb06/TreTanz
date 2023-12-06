@@ -1,0 +1,12 @@
+{
+    "file": {
+        "upload": "Your file is uploaded.",
+        "upload_multiple": "Your files are uploaded.",
+        "folder_required": "Folder field is required.",
+        "not_uploaded": "No file uploaded.",
+        "remove": "File removed successfully.",
+        "type": "Only {module} files are allowed.",
+        "generate_url":"File processing is started.",
+        "valid": "Please upload valid {module} file"
+    }
+}

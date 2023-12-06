@@ -1,0 +1,15 @@
+{
+    "module": {
+        "create": "{module} has been created successfully.",
+        "createError": "Error ocurred while creating {module}.",
+        "update": "{module} has been updated successfully.",
+        "updateError": "Error ocurred while updating {module}.",
+        "get": "{module} has been retrieve successfully.",
+        "getError": "Error occured while getting {module}",
+        "delete": "{module} has been deleted successfully.",
+        "deleteError": "Error ocurred while deleting {module}.",
+        "list": "All {module} has been obtained successfully.",
+        "listError": "{module} not found or you can't get all {module}",
+        "alreadyExist": "This {module} already present"
+    }
+}
